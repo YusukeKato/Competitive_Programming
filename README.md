@@ -1,10 +1,21 @@
 # Competitive_Programming
-Competitive programming
 
 - Contest
   - AtCoder
   - TopCoder
   - Codeforces
+  - CS Academy
 
 - Online Judge
   - AOJ
+
+## participated
+
+### 2018
+
+|day|contest name|
+|:--:|:--:|
+|04/01|AtCoder Grand Contest 022|
+|04/03|Codeforces Round 473|
+|04/04|Educational Codeforces Round 41|
+|04/05|CS Academy Round 75|
