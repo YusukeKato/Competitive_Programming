@@ -14,7 +14,7 @@
 
 ### 2018
 
-|day|contest name|numer|
+|day|contest name|solved|
 |:--:|:--:|:--:|
 |04/07|AtCoder Beginner Contest 093|3|
 |04/07|GCJ2018 Qual Round|3|
