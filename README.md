@@ -14,10 +14,11 @@
 
 ### 2018
 
-Number of problems solved = 21
+Total = 23
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
+|04/11|ECR 42|2|
 |04/08|AOJ-ITP1(prac)|9|
 |04/07|AtCoder Beginner Contest 093|3|
 |04/07|GCJ2018 Qual Round|3|
