@@ -14,10 +14,11 @@
 
 ### 2018
 
-Total = 23
+Total = 24
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
+|04/12|CSA Round 76|1|
 |04/11|ECR 42|2|
 |04/08|AOJ-ITP1(prac)|9|
 |04/07|AtCoder Beginner Contest 093|3|
