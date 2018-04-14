@@ -14,11 +14,11 @@
 
 ### 2018
 
-Total = 29
+Solved = 29
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
-|04/14|ABC 074|3|
+|04/14|ABC 094|3|
 |04/14|Helvetic Coding Contest 2018|1|
 |04/14|GCJ2018 Round 1A|1|
 |04/12|CSA Round 76|1|
