@@ -14,10 +14,11 @@
 
 ### 2018
 
-Solved = 29
+Solved = 30
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
+|04/15|Single Round Match 733|1|
 |04/14|ABC 094|3|
 |04/14|Helvetic Coding Contest 2018|1|
 |04/14|GCJ2018 Round 1A|1|
