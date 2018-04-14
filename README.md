@@ -14,10 +14,11 @@
 
 ### 2018
 
-Total = 24
+Total = 25
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
+|04/14|GCJ2018 Round 1A|1|
 |04/12|CSA Round 76|1|
 |04/11|ECR 42|2|
 |04/08|AOJ-ITP1(prac)|9|
