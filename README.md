@@ -14,10 +14,11 @@
 
 ### 2018
 
-Solved = 32
+Solved = 33
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
+|04/17|Tinkoff and CR 475|1|
 |04/15|square869120 Constest #5|2|
 |04/15|Single Round Match 733|1|
 |04/14|ABC 094|3|
