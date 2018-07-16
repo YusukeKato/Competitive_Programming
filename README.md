@@ -14,11 +14,12 @@
 
 ### 2018
 
-Solved = 37
+Solved = 38
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
-|07/14|AGC -26|1|
+|07/17|CR 498|1|
+|07/14|AGC 026|1|
 |06/16|ABC 100|3|
 |04/17|Tinkoff and CR 475|1|
 |04/15|square869120 Constest #5|2|
