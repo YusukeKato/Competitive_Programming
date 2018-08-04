@@ -6,6 +6,7 @@
   - Codeforces
   - CS Academy
   - Google Code Jam 2018
+  - Kotamanegi Otemae 2018
 
 - Online Judge
   - AOJ
@@ -14,10 +15,11 @@
 
 ### 2018
 
-Solved = 38
+Solved = 41
 
 |day|contest name|solved|
 |:--:|:--:|:--:|
+|08/04|Kotamanegi Otemae 2018|3|
 |07/17|CR 498|1|
 |07/14|AGC 026|1|
 |06/16|ABC 100|3|
